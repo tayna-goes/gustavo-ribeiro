@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0c0e10"/>
+  <path d="M14 22v-8h8M42 14h8v8M50 42v8h-8M22 50h-8v-8" fill="none" stroke="#e3a72a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="32" y="40" text-anchor="middle" font-family="Georgia, 'Liberation Serif', serif" font-size="22" fill="#ffffff">GR</text>
+</svg>
